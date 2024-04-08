@@ -39,20 +39,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test.TestClimbingRobot.test_correct_init.executor": "Run",
+    "Python tests.Python tests for test.TestClimbingRobot.test_create_robot_with_invalid_category_raises_value_error.executor": "Run",
+    "Python tests.Python tests for test.TestClimbingRobot.test_get_available_capacity_expect_success.executor": "Run",
+    "Python tests.Python tests for test.TestClimbingRobot.test_get_available_memory_expect_success.executor": "Run",
+    "Python tests.Python tests for test.TestClimbingRobot.test_get_used_capacity_expect_succses.executor": "Run",
+    "Python tests.Python tests for test.TestClimbingRobot.test_get_used_memory_expect_succses.executor": "Run",
+    "Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_less_than_max_values_expect_success.executor": "Run",
+    "Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_max_equal_values_expect_success.executor": "Run",
+    "Python tests.Python tests for test.TestClimbingRobot.test_install_software_with_one_value_greater_than_max_values_return_error_message.executor": "Run",
+    "Python tests.Python tests for test.TestRailwayStation.executor": "Run",
+    "Python tests.Python tests for test.TestRailwayStation.test_has_left_different_info.executor": "Run",
+    "Python tests.Python tests for test.TestRailwayStation.test_initialized_correctly.executor": "Run",
+    "Python tests.Python tests for test.TestRailwayStation.test_less_name_chars_raises.executor": "Run",
+    "Python tests.Python tests for test.TestRailwayStation.test_new_arrival_on_board.executor": "Run",
+    "Python tests.Python tests for test.TestRailwayStation.test_train_has_arrived_go_to_departure.executor": "Run",
+    "Python tests.Python tests for test.TestRailwayStation.test_train_has_arrived_no_arrival_trains.executor": "Run",
+    "Python tests.Python tests for test.TestRailwayStation.test_train_has_left_different_info.executor": "Run",
+    "Python tests.Python tests for test.TestsocialMedia.executor": "Run",
+    "Python tests.Python tests for test.TestsocialMedia.test_correct_constructor.executor": "Run",
+    "Python tests.Python tests for test.TestsocialMedia.test_create_post.executor": "Run",
+    "Python tests.Python tests for test.TestsocialMedia.test_wrong_platform.executor": "Run",
+    "Python tests.Python tests for test.TestsocialMedia.test_wrong_value_follower.executor": "Run",
+    "Python tests.Python tests in test.py.executor": "Run",
+    "Python.02_Even_Parameters.executor": "Run",
+    "Python.03_Bold_Italic_Underline.executor": "Run",
+    "Python.04_Type_Check.executor": "Run",
+    "Python.05_Cache.executor": "Run",
+    "Python.06_HTML_Tags.executor": "Run",
+    "Python.influencer_manager_app.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.premium_influencer.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/SoftUni",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.User-Defined File Types"
   }
-}</component>
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="SoftUni" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="SoftUni" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\Github\SoftUni\Python_OOP\Classes_And_Objects\05_Task\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_Emails">
-    <configuration name="05_Emails" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="influencer_manager_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,55 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/SOLID" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/Exam/01_Influencer_Manager/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/SOLID/05_Emails.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/Encapsulation/03_Football_Team_Generator/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/Encapsulation/03_Football_Team_Generator/project/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/Encapsulation/02_Pizza_Maker/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/Encapsulation/02_Pizza_Maker/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/Exam/01_Influencer_Manager/project/influencer_manager_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/Encapsulation/04_Restaurant/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/Exam/01_Influencer_Manager" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/Encapsulation/04_Restaurant/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/Exam/01_Influencer_Manager/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,12 +137,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="premium_influencer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/Exam/01_Influencer_Manager/project/influencers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/Exam/01_Influencer_Manager/project/influencers/premium_influencer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.TestsocialMedia" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/Exam/03_Unit_Testing/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestsocialMedia&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.TestsocialMedia.test_create_post" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/Exam/03_Unit_Testing/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestsocialMedia.test_create_post&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_Emails" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.premium_influencer" />
+        <item itemvalue="Python.influencer_manager_app" />
+        <item itemvalue="Python tests.Python tests for test.TestsocialMedia.test_create_post" />
+        <item itemvalue="Python tests.Python tests for test.TestsocialMedia" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +204,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c609cbed-08c1-47d0-9a2c-6ed29a84141c" name="Changes" comment="" />
@@ -184,6 +234,15 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Python_OOP/Classes_And_Objects/07_Spoopify/project/band.py</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_OOP/Exam/01_Influencer_Manager/project/campaigns/low_budget_campaign.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_OOP/Exam/01_Influencer_Manager/main.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
